@@ -1,2 +1,0 @@
-# football-legend
-THE GAME OF LEGENDS | THE HOME OF LEGENDS 

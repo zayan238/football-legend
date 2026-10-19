@@ -1,0 +1,793 @@
+.logo{
+    display:flex;
+    align-items:center;
+}
+
+.logo img{
+    width:180px;      /* Change size here */
+    height:auto;
+    cursor:pointer;
+    transition:0.3s ease;
+}
+
+.logo img:hover{
+    transform:scale(1.08);
+    filter:drop-shadow(0 0 15px #00ff66);
+}
+*div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+*p{
+    color: white;
+}
+
+
+
+/* .play{
+    color: black;
+    font-size: 90px;
+text-align: center;
+background-color: aquamarine;
+position:sticky;
+width: 1000px ; 
+height:355px;
+border-radius: 10px;
+border-color:black;
+left: 150px;
+} */
+/* r9 */
+.R9{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-30\ at\ 16-06-41\ brazil\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+
+}
+a{
+color: black;
+}
+h5{
+color: white;
+}
+h1{
+color: white;
+
+}
+/* neymar */
+
+.m10{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-30\ at\ 16-06-41\ brazil\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color: black;
+}
+
+/* ronaldo */
+.cr7{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-30\ at\ 17-04-02\ portugal\ flag\ wallpaper\ 4k\ horizental\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color:white;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color:white;
+}
+
+body{
+    background-image: url(./ChatGPT\ Image\ Aug\ 3\,\ 2026\,\ 02_08_28\ PM.png) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+/* zidan */
+
+.zz{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-30\ at\ 17-43-48\ france\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color:white;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color:white;
+}
+
+/* k.mbappa */
+
+.k10{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-30\ at\ 17-43-48\ france\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color:white;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color:white;
+}
+
+/* messi */
+
+
+.l10{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-30\ at\ 18-14-55\ argentina\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color:white;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color:white;
+}
+/* z.ibrahimoick */
+.z{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-31\ at\ 16-21-01\ sweden\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color:white;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color:white;
+}
+
+/* s.ramos */
+
+.s.r{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-31\ at\ 16-33-57\ spain\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color:white;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color:white;
+}
+
+
+/* a.inesta */
+
+.l10{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-30\ at\ 18-14-55\ argentina\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color:white;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color:white;
+}
+
+
+/* marcelo */
+
+
+.m{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-30\ at\ 16-06-41\ brazil\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color: white;
+}
+
+/* E.hazard */
+
+
+
+.E{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-31\ at\ 18-05-16\ belgium\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color: white;
+}
+
+
+/* ronaldhino */
+
+.r{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-30\ at\ 16-06-41\ brazil\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color: white;
+}
+
+/* maldeni */
+
+.ml{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-31\ at\ 18-25-48\ italy\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color: white;
+}
+
+/* page2 */
+
+.ml{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-31\ at\ 18-25-48\ italy\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color: white;
+}
+
+/* pepe */
+
+
+.pe{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-30\ at\ 17-04-02\ portugal\ flag\ wallpaper\ 4k\ horizental\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color:white;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color:white;
+}
+
+
+/* pogba */
+
+
+.zz{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-30\ at\ 17-43-48\ france\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color:white;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color:white;
+}
+
+
+
+/* carlos */
+
+
+.m10{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-30\ at\ 16-06-41\ brazil\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color: white;
+}
+
+/* kroos */
+
+.tk{
+    text-align:left;
+    color:white;
+    background-image:url(./Screenshot\ 2026-08-02\ at\ 16-21-08\ germany\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color: white;
+}
+
+/* ozil */
+
+
+
+.oz{
+    text-align:left;
+    color:white;
+    background-image:url(./Screenshot\ 2026-08-02\ at\ 16-21-08\ germany\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color: white;
+}
+
+/* bale */
+
+
+ .gb{
+    text-align:left;
+    color:black;
+    background-image:url(./Screenshot\ 2026-08-02\ at\ 16-47-19\ wales\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color: white;
+}
+
+/* E.david */
+ .ed{
+    text-align:left;
+    color:black;
+    background-image:url(./Screenshot\ 2026-08-02\ at\ 16-58-07\ netherlands\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color: white;
+}
+/* pele */
+
+.r{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-30\ at\ 16-06-41\ brazil\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color: white;
+}
+
+/* maradona */
+
+
+.mm{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-30\ at\ 18-14-55\ argentina\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color: white;
+}
+
+/* willian */
+
+
+.w{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-07-30\ at\ 16-06-41\ brazil\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color: white;
+}
+
+/* yashen */
+
+
+.y{
+    text-align:left;
+    color: black;
+    background-image:url(./Screenshot\ 2026-08-03\ at\ 14-34-30\ soviet\ union\ flag\ -\ Google\ Search.png) ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    justify-content: center;
+border-color: black;
+font-size: medium;
+position: relative;
+pointer-events: visible;
+}
+a{
+color: white;
+}
+
+/* footer */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Poppins',sans-serif;
+}
+
+
+footer{
+
+    background:#070707;
+    color:white;
+    padding:70px 8%;
+    border-top:4px solid #00ff66;
+
+}
+
+.footer-container{
+
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+    gap:40px;
+
+}
+
+.footer-box h2{
+
+    color:#00ff66;
+    margin-bottom:20px;
+
+}
+
+.footer-box h3{
+
+    margin-bottom:20px;
+    color:#00ff66;
+
+}
+
+.footer-box p{
+
+    color:#bdbdbd;
+    line-height:28px;
+
+}
+
+.footer-box ul{
+
+    list-style:none;
+
+}
+
+.footer-box ul li{
+
+    margin:12px 0;
+
+}
+
+.footer-box ul li a{
+
+    color:#ddd;
+    text-decoration:none;
+    transition:.3s;
+
+}
+
+.footer-box ul li a:hover{
+
+    color:#00ff66;
+    padding-left:8px;
+
+}
+
+/* SOCIAL */
+
+.socials{
+
+    margin-top:20px;
+    display:flex;
+    gap:15px;
+
+}
+
+.socials a{
+
+    width:45px;
+    height:45px;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+    background:#111;
+    color:white;
+
+    border-radius:50%;
+    text-decoration:none;
+
+    transition:.4s;
+
+}
+
+.socials a:hover{
+
+    background:#00ff66;
+    color:black;
+    transform:translateY(-8px);
+
+}
+
+/* NEWSLETTER */
+
+form{
+
+    margin-top:20px;
+
+}
+
+form input{
+
+    width:100%;
+    padding:14px;
+
+    border:none;
+    border-radius:8px;
+    margin-bottom:15px;
+
+    outline:none;
+
+}
+
+form button{
+
+    width:100%;
+
+    padding:14px;
+
+    background:#00ff66;
+
+    border:none;
+    border-radius:8px;
+
+    font-size:17px;
+    font-weight:bold;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+form button:hover{
+
+    background:white;
+
+}
+
+/* COPYRIGHT */
+
+.footer-bottom{
+
+    text-align:center;
+
+    margin-top:60px;
+
+    padding-top:25px;
+
+    border-top:1px solid rgba(255,255,255,.15);
+
+    color:#999;
+
+}
+
+.footer-bottom span{
+
+    color:#00ff66;
+    font-weight:bold;
+
+}
+
+img,
+video,
+iframe{
+    max-width:100%;
+}
+
+video{
+    display:block;
+    height:auto;
+    margin-inline:auto;
+}
+
+@media (min-width:1200px){
+    .play{
+        height:min(85vh,900px) !important;
+        min-height:360px;
+        background-size:cover !important;
+        background-position:center !important;
+    }
+
+    .footer-container{
+        grid-template-columns:repeat(4,minmax(0,1fr));
+    }
+}
+
+@media (min-width:576px) and (max-width:1199px){
+    .play{
+        height:70vh !important;
+        min-height:320px;
+        background-size:cover !important;
+        background-position:center !important;
+    }
+
+    footer{
+        padding:56px 6%;
+    }
+
+    .footer-container{
+        grid-template-columns:repeat(2,minmax(0,1fr));
+        gap:32px;
+    }
+}
+
+@media (max-width:575px){
+    body{
+        background-position:center top;
+    }
+
+    .play{
+        height:55vh !important;
+        min-height:240px;
+        background-size:cover !important;
+        background-position:center !important;
+    }
+
+    .R9,
+    .m10,
+    .cr7,
+    .zz,
+    .k10,
+    .l10,
+    .z,
+    .m,
+    .E,
+    .r,
+    .ml,
+    .pe,
+    .tk,
+    .oz,
+    .gb,
+    .ed,
+    .mm,
+    .w,
+    .y{
+        background-size:cover;
+        background-position:center;
+        overflow-wrap:anywhere;
+    }
+
+    footer{
+        padding:40px 6%;
+    }
+
+    .footer-container{
+        grid-template-columns:minmax(0,1fr);
+        gap:28px;
+    }
+
+    .socials{
+        flex-wrap:wrap;
+    }
+
+    .footer-bottom{
+        margin-top:36px;
+        overflow-wrap:anywhere;
+    }
+}
